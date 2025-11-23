@@ -174,3 +174,73 @@ INTP：逻辑性：7/10，业务洞察力：6/10...
 🤝 Contributing
 
 欢迎提交 PR 或 Issue，一起扩展这个项目！
+
+mindmap
+  root((MBTI Multi-Agent Interview System))
+  
+    %% ============= B. Interview Flow =============
+    InterviewFlow(Interview Flow)
+      ChooseJob(Choose Target Job)
+        - Product Manager
+        - Data Analyst
+        - UI/UX Designer
+        - Marketing / Operations
+      IntroAgents(Interviewers Introduction)
+        ENTJ: Direct, Efficient
+        INTP: Logical, Structured
+        ENFP: Value-driven, Story-oriented
+        ISTJ: Process and Detail-focused
+        INFJ: Insight and Empathy
+      RapidFire(Rapid-Fire Questions)
+        ENTJ_Q("Execution / Decision")
+        INTP_Q("Hypothesis / Logic")
+        ENFP_Q("Motivation / Values")
+        ISTJ_Q("Process / Stability")
+        INFJ_Q("Team / Emotions")
+      DeepFollowUp(Deep Follow-up)
+        - 2 interviewers choose a response
+        - Probe deeper with sharper questions
+      Scenario(Scenario Simulation)
+        - Job-specific conflict
+        - Decision-making stress test
+        - Multi-agent commentary
+      Evaluation(Evaluation)
+        ENTJ_Eval("Efficiency / Action")
+        INTP_Eval("Logic / Structure")
+        ENFP_Eval("Motivation / Energy")
+        ISTJ_Eval("Detail / Reliability")
+        INFJ_Eval("Team Fit / Empathy")
+      Summary(Final Summary)
+        Strengths
+        Unexpected Feedback
+        Improvement Plan
+        
+    %% ============= C. Multi-Agent Thinking Mode =============
+    AgentThinking(Multi-Agent Thinking Model)
+      RoleArchitecture(Role Architecture)
+        ENTJ("Result-driven strategist")
+        INTP("Logical analyzer")
+        ENFP("Motivation & creativity explorer")
+        ISTJ("Process controller & fact-checker")
+        INFJ("Emotional & relational observer")
+      TopicDomains(Topic Domains per MBTI)
+        ENTJ_topics("Decision • Resource • Conflict • Efficiency")
+        INTP_topics("Hypothesis • Causality • Variables • Models")
+        ENFP_topics("Values • Stories • Motivation • Vision")
+        ISTJ_topics("Processes • Risks • Details • Validation")
+        INFJ_topics("Team • Emotions • Conflict Insight • Harmony")
+      QuestionGeneration(How Agents Generate Questions)
+        Step1("Identify job context")
+        Step2("Match MBTI topic domain")
+        Step3("Generate unique question style")
+        Step4("Avoid thematic repetition")
+      EvaluationLogic(Evaluation Logic per MBTI)
+        ENTJ_eval("Action speed, clarity, leadership")
+        INTP_eval("Reasoning, internal consistency, structure")
+        ENFP_eval("Energy, authenticity, personal values")
+        ISTJ_eval("Accuracy, process stability, risk awareness")
+        INFJ_eval("Empathy, team fit, emotional intelligence")
+      Collaboration(Multi-Agent Collaboration)
+        - Comment on scenario answers
+        - Evaluate from different angles
+        - Produce combined, multi-perspective judgment
