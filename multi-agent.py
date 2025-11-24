@@ -4,7 +4,7 @@ MBTI Multi-Agent Interview Simulator (DeepSeek Version)
 """
 
 import os
-os.environ["DEEPSEEK_API_KEY"] = "sk-103e0da6c202412ea738eeb15b348d53hon"   # ←⚠ 请填入你的 key
+os.environ["DEEPSEEK_API_KEY"] =   # ←⚠ 请填入你的 key
 
 from dataclasses import dataclass
 from typing import List, Dict
@@ -237,3 +237,4 @@ def run_interview():
 
 if __name__ == "__main__":
     run_interview()
+
